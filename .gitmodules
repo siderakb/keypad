@@ -1,0 +1,3 @@
+[submodule "key-switches"]
+	path = key-switches
+	url = https://github.com/ziteh/key-switches.pretty.git
