@@ -27,11 +27,11 @@ fp-info-cache
 *.xml
 
 # Exported Gerber
-[Gg]erber/
-*.g[tb][lops]
-*.gbr
-*.gm1
-*.drl
+# [Gg]erber/
+# *.g[tb][lops]
+# *.gbr
+# *.gm1
+# *.drl
 
 # Backup
 *-backups/
